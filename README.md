@@ -15,6 +15,30 @@ altura = 1.75
 # Booleanos
 is_estudante = True
 ```
+## Operadores Aritméticos
+```
+# Aritméticos (3 % 2 = 1) | 4² = 4 * 4
+sum = num1 + num2
+sub = num1 - num2
+div = num1 / num2
+mult = num1 * num2
+mod = num1 % num2
+exp = num1 ** num2
+
+# Comparação
+maior = num1 > num2
+menor = num1 < num2
+igual = num1 == num2
+diferente = num1 != num2
+maior_igual = num1 >= num2
+menor_igual = num1 <= num2
+
+# Atribuição
+num1 += 1 # num1 = num1 + 1
+num1 -= 1 # num1 = num1 - 1
+num1 *= 1 # num1 = num1 * 1
+num1 /= 1 # num1 = num1 / 1
+```
 ## Listas
 ```
 # Criação
